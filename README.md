@@ -4,7 +4,7 @@ Pytorch implement of the REAUNet for agricultural parcel delineation.
 
 ## Paper
 
-A Refined Edge-Aware Convolutional Neural Network for Agricultural Parcel Delineation (under review)
+Lu, R., Zhang, Y., Huang, Q., Zeng, P., Shi, Z., & Ye, S. (2024). A refined edge-aware convolutional neural networks for agricultural parcel delineation. *International Journal of Applied Earth Observation and Geoinformation*, *133*, 104084. [https://doi.org/10.1016/j.jag.2024.104084](https://doi.org/10.1016/j.jag.2024.104084)
 
 ## Architecture
 
